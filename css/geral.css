@@ -1,0 +1,30 @@
+body{
+    background:url(../images/fundo1.jpg) no-repeat 10% fixed;
+}
+.panel{
+    -webkit-box-shadow:10px 10px 13px rgba(51,102,153,0.5);
+    -moz-box-shadow:10px 10px 13px rgba(51,102,153,0.5);
+    box-shadow:10px 10px 13px rgba(51,102,153,0.5);
+}
+#cadBenef{
+    margin-left:8px;
+}
+#cadFamilia{
+    margin-top:60px;
+}
+#pesquisa{
+     margin-top:20px;
+}
+#well-pessoa{
+    margin-top: 30px;
+    -webkit-box-shadow:10px 10px 13px rgba(51,102,153,0.5);
+    -moz-box-shadow:10px 10px 13px rgba(51,102,153,0.5);
+    box-shadow:10px 10px 13px rgba(51,102,153,0.5); 
+}
+.pag{
+    -webkit-box-shadow:10px 10px 13px rgba(51,102,153,0.5);
+    -moz-box-shadow:10px 10px 13px rgba(51,102,153,0.5);
+    box-shadow:10px 10px 13px rgba(51,102,153,0.5);
+}
+
+
